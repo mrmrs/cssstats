@@ -30,14 +30,14 @@
     ]
   },
   "resolutions": {
-    "@emotion/core": "10.1.1",
+    "@emotion/core": "11.0.0",
     "@emotion/styled": "10.0.27",
     "@mdx-js/mdx": "2.0.0-next.8",
     "@mdx-js/react": "2.0.0-next.8",
     "theme-ui": "0.4.0-rc.5"
   },
   "dependencies": {
-    "@emotion/core": "^10.1.1",
+    "@emotion/core": "^11.0.0",
     "@emotion/styled": "^10.0.27",
     "@mdx-js/mdx": "^2.0.0-next.8",
     "@mdx-js/react": "^2.0.0-next.8",
